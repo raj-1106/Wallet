@@ -41,4 +41,44 @@ Postman Documentation URL: [https://documenter.getpostman.com/view/36572624/2sA3
 
 ### Postman Collection
 
+- User Registeration
+ <br>
+    <p align="center">
+      <img src="SS/User register.png" height=50% width=50%>
+    </p>
+  <br>
 
+- User Verify
+ <br>
+    <p align="center">
+      <img src="SS/User verify.png" height=50% width=50%>
+    </p>
+  <br>
+
+- User Login
+ <br>
+    <p align="center">
+      <img src="SS/User login1.png" height=50% width=50%>
+    </p>
+  <br>
+
+- Transfer
+ <br>
+    <p align="center">
+      <img src="SS/transfer.png" height=50% width=50%>
+    </p>
+  <br>
+
+- Transaction
+ <br>
+    <p align="center">
+      <img src="SS/transaction.png" height=50% width=50%>
+    </p>
+  <br>
+
+- All Transaction
+ <br>
+    <p align="center">
+      <img src="SS/all transaction.png" height=50% width=50%>
+    </p>
+  <br>
